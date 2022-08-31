@@ -1,4 +1,4 @@
-![logo](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/gong-logo-landscape)
+![logo](https://github.com/hammy414/gong/blob/main/gong_logo.png)
 # Shippo TSE Challange For Joshua Sternfeld
 
 > The shippo TSE challange for Joshua Sternfeld - Technology Support Engineer
