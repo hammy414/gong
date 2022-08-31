@@ -1,4 +1,4 @@
-![logo](https://www.shipbob.com/wp-content/uploads/2021/04/shippo_logo_200x200-1.png)
+![logo](https://www.gong.io/)
 # Shippo TSE Challange For Joshua Sternfeld
 
 > The shippo TSE challange for Joshua Sternfeld - Technology Support Engineer
